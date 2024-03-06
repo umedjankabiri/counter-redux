@@ -1,0 +1,12 @@
+.standardInput {
+    max-width: 75px;
+    max-height: 20px;
+    text-align: center;
+}
+.error {
+    max-width: 75px;
+    text-align: center;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: #ff8181;
+}
